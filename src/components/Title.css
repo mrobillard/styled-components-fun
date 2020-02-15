@@ -1,0 +1,9 @@
+.title {
+  color: #f15025;
+  text-transform: uppercase;
+}
+
+/* Global collision */
+.global {
+  color: yellow;
+}
