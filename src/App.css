@@ -2,10 +2,6 @@
   --primaryColor: #f15025;
 }
 
-body {
-  margin: 2rem;
-}
-
 .global {
   color: aqua;
   text-transform: capitalize;
