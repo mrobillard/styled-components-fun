@@ -2,17 +2,11 @@
   --primaryColor: #f15025;
 }
 
-.global {
-  color: aqua;
-  text-transform: capitalize;
+* {
+  margin: 0;
+  box-sizing: border-box;
 }
 
-.first {
-  letter-spacing: 5px;
-  color: var(--primaryColor);
-}
-
-.second {
-  text-transform: uppercase;
-  color: var(--primaryColor);
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
